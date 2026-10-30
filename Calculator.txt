@@ -9,4 +9,5 @@ int main()
 	cout << "Enter two numbers: "; 
 	cin >> a >> b;
 	cout << "The sum is: " << a + b << endl;
+	cout << "The dif is: " << a - b << endl;
 }
