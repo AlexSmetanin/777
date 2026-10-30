@@ -10,4 +10,5 @@ int main()
 	cin >> a >> b;
 	cout << "The sum is: " << a + b << endl;
 	cout << "The dif is: " << a - b << endl;
+	cout << "The mult is: " << a * b << endl;
 }
